@@ -1,0 +1,3 @@
+ID,planetype,flightcode,takeoffday,price,seatsavailable,destination,airlines,totalseats
+1,abc,3dfg,2013-01-10,333,120,us,airinda,400
+2,abc,3dfg,2013-01-10,333,120,us,airinda,400
